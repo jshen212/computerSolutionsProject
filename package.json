@@ -1,0 +1,25 @@
+{
+  "name": "computersolutionsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular-route.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshen212/computerSolutionsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshen212/computerSolutionsProject/issues"
+  },
+  "homepage": "https://github.com/jshen212/computerSolutionsProject#readme",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.0"
+  }
+}
